@@ -69,7 +69,6 @@ body
     color: #fff;
     padding: 8px;
     border-radius: 20px;
-    outline: none;
     margin: 3%;
 }
 .boton button:hover
@@ -90,5 +89,6 @@ body
 .registro a:hover
 {
     color: #fff;
+    transition: 1s;
 }
 
