@@ -5,11 +5,12 @@
 }
 body
 {
-    background: #0f2027;
-    background: -webkit-linear-gradient(to right, #0f2027, #203a43, #2c5364);
-    background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+    background: url(https://i.pinimg.com/originals/26/ed/fe/26edfe7476f61c0afa0ad92574065225.gif);
+    background-size:100% 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
     width: 100%;
-    height: auto;
+    height: 625px;
     font-family: 'Inter', sans-serif;
     display: flex;
     align-content: center;
